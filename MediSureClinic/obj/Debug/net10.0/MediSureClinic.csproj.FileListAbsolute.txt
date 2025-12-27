@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\MediSureClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\MediSureClinic.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\MediSureClinic.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\MediSureClinic.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\MediSureClinic.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\bin\Debug\net10.0\MediSureClinic.exe
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\bin\Debug\net10.0\MediSureClinic.deps.json
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\bin\Debug\net10.0\MediSureClinic.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\bin\Debug\net10.0\MediSureClinic.dll
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\bin\Debug\net10.0\MediSureClinic.pdb
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\MediSureClinic.dll
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\refint\MediSureClinic.dll
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\MediSureClinic.pdb
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\MediSureClinic.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\MediSureClinic\obj\Debug\net10.0\ref\MediSureClinic.dll
