@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karan\\Desktop\\.net practice\\OOPS\\OOPS.csproj",
-      "projectName": "OOPS",
-      "projectPath": "C:\\Users\\Karan\\Desktop\\.net practice\\OOPS\\OOPS.csproj",
+      "projectUniqueName": "C:\\Users\\Karan\\Desktop\\.net practice\\QuickMart\\QucikMart.csproj",
+      "projectName": "QucikMart",
+      "projectPath": "C:\\Users\\Karan\\Desktop\\.net practice\\QuickMart\\QucikMart.csproj",
       "packagesPath": "C:\\Users\\Karan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karan\\Desktop\\.net practice\\OOPS\\obj\\",
+      "outputPath": "C:\\Users\\Karan\\Desktop\\.net practice\\QuickMart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karan\\AppData\\Roaming\\NuGet\\NuGet.Config"

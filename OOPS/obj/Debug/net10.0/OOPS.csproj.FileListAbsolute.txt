@@ -12,3 +12,4 @@ C:\Users\Karan\Desktop\.net practice\OOPS\obj\Debug\net10.0\refint\OOPS.dll
 C:\Users\Karan\Desktop\.net practice\OOPS\obj\Debug\net10.0\OOPS.pdb
 C:\Users\Karan\Desktop\.net practice\OOPS\obj\Debug\net10.0\OOPS.genruntimeconfig.cache
 C:\Users\Karan\Desktop\.net practice\OOPS\obj\Debug\net10.0\ref\OOPS.dll
+C:\Users\Karan\Desktop\.net practice\OOPS\obj\Debug\net10.0\OOPS.sourcelink.json

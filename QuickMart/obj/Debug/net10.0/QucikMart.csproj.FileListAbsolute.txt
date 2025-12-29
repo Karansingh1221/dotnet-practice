@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QucikMart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QucikMart.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QucikMart.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QucikMart.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QucikMart.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QucikMart.exe
+C:\Users\Karan\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QucikMart.deps.json
+C:\Users\Karan\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QucikMart.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QucikMart.dll
+C:\Users\Karan\Desktop\.net practice\QuickMart\bin\Debug\net10.0\QucikMart.pdb
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QucikMart.dll
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\refint\QucikMart.dll
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QucikMart.pdb
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\QucikMart.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\QuickMart\obj\Debug\net10.0\ref\QucikMart.dll

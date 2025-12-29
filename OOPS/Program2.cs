@@ -3,16 +3,29 @@ class MainClass{
     public static void Main(string[] args){
         // Calculator();
         // Example();
-        int power(int a,int b){
-            if(b==0){
-                return 1;
-            }
-            b--;
-            return a*power(a,b);
+        // int power(int a,int b){
+        //     if(b==0){
+        //         return 1;
+        //     }
+        //     b--;
+        //     return a*power(a,b);
+        // }
+        // Console.WriteLine(power(2,5));
+        // int num = Convert.ToInt32("50");
+        // Console.WriteLine(num);
+
+        IntefaceImp i=new IntefaceImp();
+        i.Print();
+    }
+    interface Example{
+        public void Print();
+        // public void Scan();
+    }
+    class IntefaceImp:Example{
+
+        public void Print(){
+            Console.WriteLine($"qwerty {age}");
         }
-        Console.WriteLine(power(2,5));
-        int num = Convert.ToInt32("50");
-        Console.WriteLine(num);
     }
     
     // public static void Calculator(){
