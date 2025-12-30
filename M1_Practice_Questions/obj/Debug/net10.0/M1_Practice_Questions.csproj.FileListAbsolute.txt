@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\M1_Practice_Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\M1_Practice_Questions.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\M1_Practice_Questions.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\M1_Practice_Questions.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\M1_Practice_Questions.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\bin\Debug\net10.0\M1_Practice_Questions.exe
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\bin\Debug\net10.0\M1_Practice_Questions.deps.json
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\bin\Debug\net10.0\M1_Practice_Questions.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\bin\Debug\net10.0\M1_Practice_Questions.dll
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\bin\Debug\net10.0\M1_Practice_Questions.pdb
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\M1_Practice_Questions.dll
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\refint\M1_Practice_Questions.dll
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\M1_Practice_Questions.pdb
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\M1_Practice_Questions.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\M1_Practice_Questions\obj\Debug\net10.0\ref\M1_Practice_Questions.dll
