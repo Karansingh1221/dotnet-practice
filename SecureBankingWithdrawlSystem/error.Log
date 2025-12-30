@@ -1,0 +1,4 @@
+29-12-2025 22:43:44 | BankOperationException | Something Went Wrong.
+29-12-2025 22:50:13 | InsufficientBalanceException | Insufficient Balance
+29-12-2025 22:54:25 | BankOperationException | Something Went Wrong.
+29-12-2025 22:56:47 | BankOperationException | Something Went Wrong.

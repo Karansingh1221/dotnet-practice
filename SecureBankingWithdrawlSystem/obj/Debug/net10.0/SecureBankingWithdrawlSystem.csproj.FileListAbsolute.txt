@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\SecureBankingWithdrawlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\SecureBankingWithdrawlSystem.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\SecureBankingWithdrawlSystem.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\SecureBankingWithdrawlSystem.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\SecureBankingWithdrawlSystem.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\bin\Debug\net10.0\SecureBankingWithdrawlSystem.exe
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\bin\Debug\net10.0\SecureBankingWithdrawlSystem.deps.json
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\bin\Debug\net10.0\SecureBankingWithdrawlSystem.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\bin\Debug\net10.0\SecureBankingWithdrawlSystem.dll
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\bin\Debug\net10.0\SecureBankingWithdrawlSystem.pdb
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\SecureBankingWithdrawlSystem.dll
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\refint\SecureBankingWithdrawlSystem.dll
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\SecureBankingWithdrawlSystem.pdb
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\SecureBankingWithdrawlSystem.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\SecureBankingWithdrawlSystem\obj\Debug\net10.0\ref\SecureBankingWithdrawlSystem.dll
