@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\bin\Debug\net10.0\SugarBlissBakery.exe
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\bin\Debug\net10.0\SugarBlissBakery.deps.json
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\bin\Debug\net10.0\SugarBlissBakery.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\bin\Debug\net10.0\SugarBlissBakery.dll
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\bin\Debug\net10.0\SugarBlissBakery.pdb
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\SugarBlissBakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\SugarBlissBakery.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\SugarBlissBakery.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\SugarBlissBakery.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\SugarBlissBakery.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\SugarBlissBakery.dll
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\refint\SugarBlissBakery.dll
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\SugarBlissBakery.pdb
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\SugarBlissBakery.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\SugarBlissBakery\obj\Debug\net10.0\ref\SugarBlissBakery.dll
