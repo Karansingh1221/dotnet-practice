@@ -1,0 +1,11 @@
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\bin\Debug\net10.0\AssignmentDll.deps.json
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\bin\Debug\net10.0\AssignmentDll.dll
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\bin\Debug\net10.0\AssignmentDll.pdb
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\obj\Debug\net10.0\AssignmentDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\obj\Debug\net10.0\AssignmentDll.AssemblyInfoInputs.cache
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\obj\Debug\net10.0\AssignmentDll.AssemblyInfo.cs
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\obj\Debug\net10.0\AssignmentDll.csproj.CoreCompileInputs.cache
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\obj\Debug\net10.0\AssignmentDll.dll
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\obj\Debug\net10.0\refint\AssignmentDll.dll
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\obj\Debug\net10.0\AssignmentDll.pdb
+C:\Users\Karan\source\repos\AssignmentDll\AssignmentDll\obj\Debug\net10.0\ref\AssignmentDll.dll
