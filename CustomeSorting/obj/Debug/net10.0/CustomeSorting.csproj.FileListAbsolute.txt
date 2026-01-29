@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\CustomeSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\CustomeSorting.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\CustomeSorting.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\CustomeSorting.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\CustomeSorting.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\bin\Debug\net10.0\CustomeSorting.exe
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\bin\Debug\net10.0\CustomeSorting.deps.json
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\bin\Debug\net10.0\CustomeSorting.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\bin\Debug\net10.0\CustomeSorting.dll
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\bin\Debug\net10.0\CustomeSorting.pdb
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\CustomeSorting.dll
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\refint\CustomeSorting.dll
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\CustomeSorting.pdb
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\CustomeSorting.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\CustomeSorting\obj\Debug\net10.0\ref\CustomeSorting.dll
