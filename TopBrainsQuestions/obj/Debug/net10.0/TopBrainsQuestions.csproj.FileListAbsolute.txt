@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.exe
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.deps.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.pdb
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\refint\TopBrainsQuestions.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.pdb
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\obj\Debug\net10.0\ref\TopBrainsQuestions.dll
