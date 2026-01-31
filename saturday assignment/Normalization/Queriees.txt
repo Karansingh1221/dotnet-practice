@@ -1,0 +1,62 @@
+
+
+All the queries
+--Q2 third highest sales
+SELECT DISTINCT TotalSales
+FROM (
+    SELECT SM.order_id,
+           SUM(PT.quantity * PT.unit_price) AS TotalSales
+    FROM  [dbo].[Sales_Master] sm
+    INNER JOIN [dbo].[Product_Master] pt ON sm.order_id = pt.order_id
+    GROUP BY SM.order_id
+) AS OrderTotals
+ORDER BY TotalSales DESC
+OFFSET 2 ROWS FETCH NEXT 1 ROW ONLY;
+
+
+
+--que 3 salesperson who generated high revenue
+SELECT SP.name,
+SUM(Pm.quantity * Pm.unit_price) AS TotalSales
+FROM  [dbo].[Sales_Master] SM
+INNER JOIN [dbo].[Sales_Person_Master] SP ON SM.sales_person_id = SP.sales_person_id
+INNER JOIN [dbo].[Product_Master] Pm ON SM.order_id = Pm.order_id
+GROUP BY SP.name
+HAVING SUM(Pm.quantity * Pm.unit_price) > 60000;
+
+
+--que 5 string and data functions
+SELECT 
+    UPPER(customername) AS CustomerName,
+    MONTH(CONVERT(DATE, OrderDate)) AS OrderMonth
+FROM [dbo].[Sales_Raw]
+WHERE YEAR(CONVERT(DATE, OrderDate)) = 2024
+AND MONTH(CONVERT(DATE, OrderDate)) = 1;
+
+
+--que 4
+SELECT 
+    ct.name,
+    SUM(pm.quantity * pm.unit_price) AS total
+FROM [dbo].[Sales_Master] sm
+INNER JOIN [dbo].[Customer_Tb] ct 
+    ON sm.customer_id = ct.customer_id
+INNER JOIN [dbo].[Product_Master] pm 
+    ON sm.order_id = pm.order_id
+GROUP BY ct.name
+HAVING SUM(pm.quantity * pm.unit_price) >
+(
+    SELECT AVG(customer_total)
+    FROM
+    (
+        SELECT SUM(pm2.quantity * pm2.unit_price) AS customer_total
+        FROM [dbo].[Sales_Master] sm2
+        INNER JOIN [dbo].[Product_Master] pm2 
+            ON sm2.order_id = pm2.order_id
+        GROUP BY sm2.customer_id
+    ) AS avg_table
+);
+
+
+
+
