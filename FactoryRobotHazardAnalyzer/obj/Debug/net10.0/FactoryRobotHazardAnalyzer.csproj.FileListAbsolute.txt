@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.exe
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.deps.json
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.dll
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\bin\Debug\net10.0\FactoryRobotHazardAnalyzer.pdb
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.dll
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\refint\FactoryRobotHazardAnalyzer.dll
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.pdb
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\FactoryRobotHazardAnalyzer.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\FactoryRobotHazardAnalyzer\obj\Debug\net10.0\ref\FactoryRobotHazardAnalyzer.dll
