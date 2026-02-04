@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\C#Question6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\C#Question6.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\C#Question6.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\C#Question6.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\C#Question6.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\bin\Debug\net10.0\C#Question6.exe
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\bin\Debug\net10.0\C#Question6.deps.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\bin\Debug\net10.0\C#Question6.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\bin\Debug\net10.0\C#Question6.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\bin\Debug\net10.0\C#Question6.pdb
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\C#Question6.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\refint\C#Question6.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\C#Question6.pdb
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\C#Question6.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question6\obj\Debug\net10.0\ref\C#Question6.dll
