@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\bin\Debug\net10.0\C#Question9.exe
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\bin\Debug\net10.0\C#Question9.deps.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\bin\Debug\net10.0\C#Question9.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\bin\Debug\net10.0\C#Question9.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\bin\Debug\net10.0\C#Question9.pdb
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\C#Question9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\C#Question9.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\C#Question9.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\C#Question9.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\C#Question9.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\C#Question9.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\refint\C#Question9.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\C#Question9.pdb
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\C#Question9.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question9\obj\Debug\net10.0\ref\C#Question9.dll
