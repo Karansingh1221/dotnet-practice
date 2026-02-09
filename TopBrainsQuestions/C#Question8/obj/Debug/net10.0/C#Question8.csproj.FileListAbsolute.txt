@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\C#Question8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\C#Question8.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\C#Question8.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\C#Question8.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\C#Question8.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\bin\Debug\net10.0\C#Question8.exe
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\bin\Debug\net10.0\C#Question8.deps.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\bin\Debug\net10.0\C#Question8.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\bin\Debug\net10.0\C#Question8.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\bin\Debug\net10.0\C#Question8.pdb
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\C#Question8.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\refint\C#Question8.dll
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\C#Question8.pdb
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\C#Question8.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\TopBrainsQuestions\C#Question8\obj\Debug\net10.0\ref\C#Question8.dll
