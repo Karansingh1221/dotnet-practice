@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\UniversityCourseRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\UniversityCourseRegistration.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\UniversityCourseRegistration.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\UniversityCourseRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\UniversityCourseRegistration.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\bin\Debug\net10.0\UniversityCourseRegistration.exe
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\bin\Debug\net10.0\UniversityCourseRegistration.deps.json
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\bin\Debug\net10.0\UniversityCourseRegistration.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\bin\Debug\net10.0\UniversityCourseRegistration.dll
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\bin\Debug\net10.0\UniversityCourseRegistration.pdb
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\UniversityCourseRegistration.dll
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\refint\UniversityCourseRegistration.dll
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\UniversityCourseRegistration.pdb
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\UniversityCourseRegistration.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\UniversityCourseRegistration\obj\Debug\net10.0\ref\UniversityCourseRegistration.dll
