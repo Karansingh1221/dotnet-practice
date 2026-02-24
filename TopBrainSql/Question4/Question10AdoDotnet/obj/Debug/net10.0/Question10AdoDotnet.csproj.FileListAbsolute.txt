@@ -1,0 +1,14 @@
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\Question10AdoDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\Question10AdoDotnet.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\Question10AdoDotnet.AssemblyInfo.cs
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\Question10AdoDotnet.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\bin\Debug\net10.0\Question10AdoDotnet.exe
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\bin\Debug\net10.0\Question10AdoDotnet.deps.json
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\bin\Debug\net10.0\Question10AdoDotnet.runtimeconfig.json
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\bin\Debug\net10.0\Question10AdoDotnet.dll
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\bin\Debug\net10.0\Question10AdoDotnet.pdb
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\Question10AdoDotnet.dll
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\refint\Question10AdoDotnet.dll
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\Question10AdoDotnet.pdb
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\Question10AdoDotnet.genruntimeconfig.cache
+C:\Users\Karan\Desktop\ADODOTNET\Question10AdoDotnet\obj\Debug\net10.0\ref\Question10AdoDotnet.dll
